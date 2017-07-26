@@ -7,7 +7,7 @@ title: 真的能行么？
 # this is a table
 [Baidu](http://www.baidu.com)
 
-![ico](./1.bmp)
+![ico](./1.png)
 
 ## h2
 

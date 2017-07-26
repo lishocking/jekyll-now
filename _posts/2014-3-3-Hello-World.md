@@ -2,13 +2,13 @@
 layout: post
 title: 如何用废旧笔记本做NAS 
 ---
-&emsp;&emsp;家里有台废旧的笔记本电脑（上网本），用起来卡的要命，卖了又不值钱。其实可以用来做NAS服务器，完成手机照片自动同步，挂机下载，局域网提供影音服务。
-&emsp;&emsp;既然要做NAS就需要选择操作系统。
-&emsp;&emsp;用主流linux操作系统和Windows系统：这些系统太大，功能多，速度慢。还需要自己安装相应的服务软件。OpenWrt是开源路由器的系统，结构小巧，功能丰富，但是对Windows的NTFS等文件系统支持不好，需要自己移植软件。FreeNas虽然开源，但是硬件要求比较高，需要64位CPU 8G以上内存,上网本是无法满足配置要求。Nas4Free非最新版本有32位版，可以满足要求。
+  家里有台废旧的笔记本电脑（上网本），用起来卡的要命，卖了又不值钱。其实可以用来做NAS服务器，完成手机照片自动同步，挂机下载，局域网提供影音服务。
+既然要做NAS就需要选择操作系统。
+用主流linux操作系统和Windows系统：这些系统太大，功能多，速度慢。还需要自己安装相应的服务软件。OpenWrt是开源路由器的系统，结构小巧，功能丰富，但是对Windows的NTFS等文件系统支持不好，需要自己移植软件。FreeNas虽然开源，但是硬件要求比较高，需要64位CPU 8G以上内存,上网本是无法满足配置要求。Nas4Free非最新版本有32位版，可以满足要求。
 
-&emsp;&emsp;Nas4Free下载地址
+Nas4Free下载地址
 
-&emsp;&emsp;[Nas4Free](https://sourceforge.net/projects/nas4free/files/?source=directory)
+[Nas4Free](https://sourceforge.net/projects/nas4free/files/?source=directory)
 
 Nas4Free有三个版本
 

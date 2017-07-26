@@ -7,7 +7,7 @@ title: 真的能行么？
 # this is a table
 [Baidu](http://www.baidu.com)
 
-![ico](./1.png)
+![ico](https://github.com/lishocking/lishocking.github.io/blob/master/_posts/1.png?raw=true)
 
 ## h2
 

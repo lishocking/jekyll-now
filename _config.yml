@@ -1,4 +1,4 @@
-#
+﻿#
 # This file contains configuration flags to customize your site
 #
 
@@ -9,11 +9,11 @@ name: 大米煮酒
 
 
 # Short bio or description (displayed in the header)
-description: 有个博客真好1
+description: 有个博客真好
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/lishocking
-
+#
 #
 # Flags below are optional
 #
